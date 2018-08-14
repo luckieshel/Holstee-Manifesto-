@@ -1,0 +1,81 @@
+body {
+    margin-left: 400px; 
+}
+#background {
+	border: 10px solid lightgrey;
+	margin: 0px; 
+	font-family: 'Quattrocento', serif;
+	float: left; 
+	width: 460px; 
+}
+#leftcol {
+	float: left;
+	width: 200px;
+}
+#rightcol {
+	float: right;
+}
+#redone {
+	background:#ff3333;
+	width: 220px;
+	text-align: center; 
+	padding: 100px 5px 100px 5px;
+	font-size: 20px;
+	font-family: 'oswald', sans-serif; 
+}
+ #redtwo {
+	background:#ff3333;
+	width: 220px;
+	text-align: center; 
+	padding: 123px 5px 192px 5px;
+	font-size: 20px;
+	font-family: 'oswald', sans-serif; 
+}
+#darkblueone {
+	background:#1a1aff;
+	width: 220px; 
+	text-align: center; 
+	font-size: 16px; 
+	padding: 70px 5px 100px 5px;  
+}
+#darkbluetwo {
+	background:#1a1aff;
+	width: 220px; 
+	text-align: center; 
+	font-size: 16px; 
+	padding: 70px 5px 82px 5px;  
+}
+#lightblueone {
+	background: #99ffff;
+	width: 220px; 
+	text-align: center; 
+	font-size: 16px; 
+	padding: 70px 5px 75px 5px; 
+}
+#lightbluetwo {
+	background: #99ffff;
+	width: 220px; 
+	text-align: center; 
+	font-size: 15px; 
+	padding: 100px 10px 120px 1px; 
+}
+#mediumblueone { 
+	background: #669999;
+	width: 220px;
+	text-align: center; 
+	font-size: 16px; 
+	padding: 87px 5px 82px 5px; 
+}
+#mediumbluetwo {
+	background: #669999;
+	width: 220px;
+	text-align: center; 
+	font-size: 16px; 
+	padding: 131px 5px 135px 5px; 
+}
+.quattrocento {
+	font-family: 'quattrocento', sans-serif; 
+}
+.oswald {
+	font-family: 'oswald', sans-serif; 
+}
